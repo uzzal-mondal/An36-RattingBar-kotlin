@@ -8,13 +8,16 @@ RatingButton
 
 
 3.	Create a constraint layout .
+
+
   xml file create
 
-android:numStars="4"
-android:rating="3"
-android:stepSize="1"
-android:progressBackgroundTint="#FF5722"
-android:progressTint="#3AB78B"
+            android:numStars="6"
+            android:rating="3"
+            android:stepSize="1"
+            android:progressBackgroundTint="#FF5722"
+            android:progressTint="#3AB78B"
+
 
 4.	With in create a text view in show  result.
 
